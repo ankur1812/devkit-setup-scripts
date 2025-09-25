@@ -68,6 +68,6 @@ Test if the sdk tools are added to the bash. Try running the adb command it shou
 $ adb devices
 List of devices attached
 ```
-**Note:** In case the adb fails to detect android devices connected through usb, check the steps [here](https://github.com/ankur1812/Flutter-React-Native-Scripts?tab=readme-ov-file#12-fix-failing-device-connections)
+**Note:** In case the adb fails to detect android devices connected through usb, check the steps [here](https://github.com/ankur1812/adb-scripts?tab=readme-ov-file#3-debugging--fixing-failing-device-connections)
 
 
